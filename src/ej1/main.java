@@ -7,8 +7,9 @@ package ej1;
 import javax.swing.JFrame;
 
 /**
- *
- * @author LabP3103
+ * Practica Error-DefectoFalla
+ * 16/11/2022
+ * @authors Erick Muñoz, Gandhy Garcia
  */
 public class main {
 
